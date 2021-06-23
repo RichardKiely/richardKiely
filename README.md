@@ -1,5 +1,4 @@
 ### Here is what i'm working on
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Personal Website using HTML,CSS && JavaScript
 - 🌱 I’m currently learning ...Data Structures and Algorithms and i'm a 3rd year student in MTU
