@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...Java
 - 🤔 I’m looking for help with ...Cyber security 
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...richardckiely@gmail.com
+- 📫 How to reach me: ... richardckiely@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I am Irish
 -->
