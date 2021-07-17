@@ -11,7 +11,3 @@
 -->
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/richard_kiely" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/richard-kiely-41a015126/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Strava" width="22px" src="https://www.strava.com/athletes/71840322" />][strava]
