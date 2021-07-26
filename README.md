@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
-<h3 align="center">A passionate frontend developer from Ireland🌍</h3>
+<h3 align="center">A passionate aspiring developer from Ireland🌍</h3>
 
 - 🔭 I’m currently working on **Personal Website using HTML,CSS && JavaScript**
 
