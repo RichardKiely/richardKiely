@@ -1,17 +1,3 @@
-### Here is what i'm working on
-
-- 🔭 I’m currently working on ... Personal Website using HTML,CSS && JavaScript
-- 🌱 I’m currently learning ...Data Structures and Algorithms and I'm a 3rd year software dev student in MTU https://www.mtu.ie/ .
-- 👯 I’m looking to collaborate on ...Java
-- 🤔 I’m looking for help with ... Cyber security 
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ... richardckiely@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...Started coding at age 33
--->
-
-### Connect with me:
-
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A passionate frontend developer from Ireland🌍</h3>
 
