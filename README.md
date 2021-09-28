@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal Website using HTML,CSS && JavaScript**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Java (OOP), JavaScript(web dev) and I'm a 3rd year software dev student in MTU https://www.mtu.ie/ .**
+- 🌱 I’m currently learning **Data Structures and Concurrency, OOAD, Web Frameworks, Software Tools(Microsoft Azure) and Data Analytics
 
 - 👯 I’m looking to collaborate on **Java**
 
