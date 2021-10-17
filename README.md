@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A passionate student && aspiring developer from Ireland🌍</h3>
 
-- 🔭 I’m currently working on **Personal Website using HTML,CSS && JavaScript**
+- 🔭 I’m currently working on MEAN stack project.
 
 - 🌱 I’m currently learning **Data Structures and Concurrency, OOAD, Web Frameworks, Software Tools(Microsoft Azure) and Data Analytics
 
