@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
-<h3 align="center">A passionate student && aspiring developer from Ireland🌍</h3>
+<h3 align="center">A passionate aspiring developer from Ireland🌍</h3>
 
 - 🔭 I’m currently working on MEAN stack project.
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Anything**
 
-- ⚡ Fun fact **Started coding at age 33**
+- ⚡ Fun fact **Undefeated boxer 1 and 0 😂 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
